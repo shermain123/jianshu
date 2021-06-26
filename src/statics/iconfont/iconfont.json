@@ -1,0 +1,51 @@
+{
+  "id": "2615448",
+  "name": "简书",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "简书 inconfont 仓库",
+  "glyphs": [
+    {
+      "icon_id": "77108",
+      "name": "换一批",
+      "font_class": "huanyipi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11177508",
+      "name": "换一批",
+      "font_class": "ziyuan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13079710",
+      "name": "换一批",
+      "font_class": "huanyipi1",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "999120",
+      "name": "放大镜",
+      "font_class": "ai219",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "1621077",
+      "name": "Aa",
+      "font_class": "Aa",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "21396811",
+      "name": "line-quill pen（羽毛笔）",
+      "font_class": "line-quillpenyumaobi",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    }
+  ]
+}
